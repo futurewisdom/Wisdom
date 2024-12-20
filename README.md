@@ -46,6 +46,4 @@ Account Management:
     
     /help - Show this help message
 
-
-    ![GdbakpdWYAADyU4](https://github.com/user-attachments/assets/89e791ba-39bb-44fe-a56e-c67f2c43a918)
-
+official twitter：https://x.com/FuturWisdom
