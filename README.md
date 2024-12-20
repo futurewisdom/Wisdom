@@ -1,3 +1,5 @@
+Follow futurewisodm twitter to get more message:@FuturWisdom 
+
 Wisdom has a unique chat system. It allows you to chat with players, AI, and directly with the game environment via "slash commands". There will also be custom user-created slash commands for agencies. (soon)
 
 Below is an example of a terminal command that creates a new user account.
